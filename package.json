@@ -8,11 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
-    "grommet": "^2.13.0",
+    "grommet": "https://github.com/grommet/grommet/tarball/stable",
     "grommet-icons": "^4.4.0",
     "next": "9.4.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "rxjs": "^6.5.5",
     "sass": "^1.26.5",
     "styled-components": "^5.1.0"
   },
